@@ -1,4 +1,4 @@
-# 🔄 Plan de Sostenibilidad para una Empresa
+# 📔 Plan de Sostenibilidad para una Empresa
 
 _Un trabajo sobre el Plan de Sostenibilidad_
 
