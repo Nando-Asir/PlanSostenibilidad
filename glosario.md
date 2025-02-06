@@ -6,7 +6,7 @@
   
 - ***'Aspectos ASG'*** 🏢: Criterios que miden la responsabilidad de una empresa en sostenibilidad: impacto ambiental, trato a las personas y ética en su gestión.
   
-- ***'Indicadores de Sostenibilidad'*** ♻️: Métricas que evalúan el desempeño ambiental, social y económico de una organización, como reducción de emisiones o uso de energías renovables.
+- ***'Indicadores de Sostenibilidad ♻️'***: Métricas que evalúan el desempeño ambiental, social y económico de una organización, como reducción de emisiones o uso de energías renovables.
   
 - ***'Emisiones de CO₂'*** 💨: Cantidad de dióxido de carbono liberado por actividades humanas, principal causante del cambio climático.
   
