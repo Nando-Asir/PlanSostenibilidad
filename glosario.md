@@ -1,6 +1,6 @@
 ## 📖 Glosario
 
-- <imp>***'Plan de Sostenibilidad'***</imp>: Estrategia que define cómo una organización reduce su impacto ambiental, social y económico, estableciendo objetivos medibles y responsables.
+- ***'Plan de Sostenibilidad'***: Estrategia que define cómo una organización reduce su impacto ambiental, social y económico, estableciendo objetivos medibles y responsables.
   
 - ***'Grupos de Interés (Stakeholders)'***: Personas o entidades afectadas por las decisiones de una empresa, como clientes, empleados, inversores y comunidades.
   
