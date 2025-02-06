@@ -4,7 +4,7 @@
   
 - ***'Grupos de Interés (Stakeholders)'*** 🤝: Personas o entidades afectadas por las decisiones de una empresa, como clientes, empleados, inversores y comunidades.
   
-- ***'Aspectos ASG (Ambientales, Sociales y de Gobernanza)'*** 🏢: Criterios que miden la responsabilidad de una empresa en sostenibilidad: impacto ambiental, trato a las personas y ética en su gestión.
+- ***'Aspectos ASG'*** 🏢: Criterios que miden la responsabilidad de una empresa en sostenibilidad: impacto ambiental, trato a las personas y ética en su gestión.
   
 - ***'Indicadores de Sostenibilidad'*** ♻️: Métricas que evalúan el desempeño ambiental, social y económico de una organización, como reducción de emisiones o uso de energías renovables.
   
