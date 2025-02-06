@@ -8,7 +8,7 @@ _Un trabajo sobre el Plan de Sostenibilidad_
 
 ## 📑 Índice
 
-### 1. [Introducción al análisis de sostenibilidad](introduccion.md)
+### 1. [Introducción al Análisis de Sostenibilidad](introduccion.md)
 ### 2. [Grupos de Interés (Stakeholders)](stakeholders.md)
 ### 3. [Aspectos ASG Materiales](aspectos.md)
 
