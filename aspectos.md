@@ -13,7 +13,7 @@ Los aspectos ASG son esenciales para evaluar la sostenibilidad de una empresa.
 
 
 
-kjkjk
+----
 
 
 ## Propuestas y medición de acciones sostenibles
