@@ -4,8 +4,6 @@ El **plan de sostenibilidad** es un conjunto de estrategias que permite a las em
 
 ---
 
-### 💫 Importancia en el Contexto Actual
-
 > [!NOTE]
 >  Un plan de sostenibilidad es fundamental en el contexto actual, ya que permite a las empresas no solo cumplir con regulaciones medioambientales, sino también responder a la creciente demanda de consumidores y accionistas por prácticas éticas y responsables. Además, estas estrategias contribuyen a la mitigación de riesgos operativos y a la creación de una ventaja competitiva, impulsando la innovación y la lealtad del cliente en un mercado en constante evolución.
 
