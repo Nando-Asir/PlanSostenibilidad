@@ -1,4 +1,4 @@
-## 📖 Glosario
+## 📖 [Glosario](README.md)
 
 - ***'Plan de Sostenibilidad 📄'***: Estrategia que define cómo una organización reduce su impacto ambiental, social y económico, estableciendo objetivos medibles y responsables.
   
