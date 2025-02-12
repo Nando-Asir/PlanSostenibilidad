@@ -1,4 +1,4 @@
-## 💡 Conclusiones
+## 💡 [Conclusiones](README.md)
 
 
 1. Implementar un plan de sostenibilidad es crucial para las empresas en un entorno actual que valora la **responsabilidad social y ambiental**. Al identificar grupos de interés y aplicar criterios ASG, las organizaciones pueden mejorar su reputación y desempeño financiero.
