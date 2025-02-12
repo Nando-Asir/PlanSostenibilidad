@@ -1,5 +1,6 @@
 ## ⚖️ Aspectos ASG Materiales  (Ambientales, Sociales y de Gobernanza)
 
+
 Los aspectos ASG son esenciales para evaluar la sostenibilidad de una empresa.
 
 - Ambientales: Se centran en el uso revisado de recursos, las emisiones de gases de efecto invernadero y el reciclaje de materiales.
@@ -9,6 +10,7 @@ Los aspectos ASG son esenciales para evaluar la sostenibilidad de una empresa.
 - De Gobernanza: Concierne a la transparencia en las operaciones, la ética empresarial y el cumplimiento normativo. Trabajar en estos pilares contribuye a una empresa más sostenible y responsable.
 
 ---
+
 
 ## Propuestas y medición de acciones sostenibles
 
