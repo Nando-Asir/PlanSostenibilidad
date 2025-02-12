@@ -1,4 +1,4 @@
-## 📑 Introducción
+## 📑 [Introducción](README.md)
 
 El **plan de sostenibilidad** es un conjunto de estrategias que permite a las empresas operar de manera ambientalmente responsable y socialmente equitativa.
 
