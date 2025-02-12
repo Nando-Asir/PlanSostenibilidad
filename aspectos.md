@@ -9,6 +9,8 @@ Los aspectos ASG son esenciales para evaluar la sostenibilidad de una empresa.
 
 - De Gobernanza: Concierne a la transparencia en las operaciones, la ética empresarial y el cumplimiento normativo. Trabajar en estos pilares contribuye a una empresa más sostenible y responsable.
 
+
+
 ---
 
 
