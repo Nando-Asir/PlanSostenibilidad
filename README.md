@@ -2,7 +2,7 @@
 
 _Un trabajo sobre el Plan de Sostenibilidad_
 
-<img src="img/plan_sostenibilida.jpg" alt="plan_sost" width="750" height="500">
+<img src="img/plan_sostenibilidad.jpg" alt="plan_sost" width="750" height="500">
 
 ---
 
